@@ -52,7 +52,7 @@ function App() {
 function NavPanel() {
   return(
   <div className="Panel">
-    <a href="/" className="TitleLink"><div>Jacob Cuckold</div></a>
+    <a href="/" className="TitleLink"><div>Jacob Pacheco</div></a>
     <div className="Links">
       <a href="reel">Reel</a>
       <a href="resume">Resume</a>
